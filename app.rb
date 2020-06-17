@@ -25,6 +25,4 @@ class App < Sinatra::Base
     (num1 * num2).to_s
   end
 
-  # Code your final two routes here:
-
 end
